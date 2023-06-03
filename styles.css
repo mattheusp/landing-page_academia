@@ -139,6 +139,7 @@ main {
 .btns button:before {
     content: ' ';
     border-radius: 20px;
+    border-radius: 20px;
     left: 0;
     position: absolute;
     width: 0;
@@ -146,4 +147,8 @@ main {
     background-color: rgb(61, 61, 61);
     z-index: -1;
     transition: 1s;
+}   
+
+.btns button:hover:before {
+    width: 100%;
 }   
