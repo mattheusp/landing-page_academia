@@ -18,3 +18,7 @@ html {
     color: black;
     font-family: 'Lato', sans-serif;
 }
+
+body {
+    background: linear-gradient(rgba());
+}
