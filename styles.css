@@ -126,4 +126,7 @@ main {
     height: 60px;
     cursor: pointer;
     border: 1px solid white;
+    color: white;
+    text-transform: uppercase;
+    background-color: transparent;
 }
