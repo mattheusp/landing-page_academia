@@ -37,5 +37,9 @@ header {
 
 .menu-content {
     text-transform: uppercase;
-
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 1.8rem;
 }
