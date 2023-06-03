@@ -47,4 +47,9 @@ header {
 .logo {
     font-size: 1.8rem;
     letter-spacing: 0.4rem;
+    cursor: pointer;
+}
+
+.menu-content .list-itens {
+    
 }
