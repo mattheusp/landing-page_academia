@@ -143,5 +143,7 @@ main {
     position: absolute;
     width: 0;
     height: 60%;
-    
+    background-color: rgb(61, 61, 61);
+    z-index: -1;
+    transition: 1s;
 }   
