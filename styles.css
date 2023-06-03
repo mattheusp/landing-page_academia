@@ -98,7 +98,16 @@ main {
 /* Textos conteudo principal */
 
 .primary-text {
-    width: 850px;
-    font-size: 1.5rem;
-    
+    width: 85px;
+    font-size: 5rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    color: rgb(red, green, blue)
+}
+
+.second-text {
+    margin-bottom: 7rem;
+    font-size: 2rem;
+    color: rgb(165, 165, 165);
+    text-transform: uppercase;
 }
