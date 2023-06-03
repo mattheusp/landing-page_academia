@@ -96,3 +96,9 @@ main {
 }
 
 /* Textos conteudo principal */
+
+.primary-text {
+    width: 850px;
+    font-size: 1.5rem;
+    
+}
