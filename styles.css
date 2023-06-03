@@ -10,3 +10,9 @@
 
 
 /* fundo da tela */
+
+html {
+    width: 100vh;
+    height: 100vh;
+    font-size: 62.5%;
+}
