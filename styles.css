@@ -136,6 +136,7 @@ main {
     transition: 1.5s;
 }
 
-.btns button::before {
-    
+.btns button:before {
+    content: ' ';
+    border-radius: 20px;
 }   
