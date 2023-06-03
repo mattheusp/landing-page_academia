@@ -136,6 +136,10 @@ main {
     transition: 1.5s;
 }
 
+.btns button:hover {
+    color: rgb(251, 255, 0);
+}
+
 .btns button:before {
     content: ' ';
     border-radius: 20px;
