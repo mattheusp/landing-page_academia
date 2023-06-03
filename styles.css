@@ -60,5 +60,14 @@ header {
     text-decoration: none;
     color: white;
     padding: 1.5rem;
-    transform: ;
+    transform: 2ms ease-in;
+    position: relative;
+}
+
+.menu-content .list-itens a::before {
+    text-decoration: none;
+    color: white;
+    padding: 1.5rem;
+    transform: 2ms ease-in;
+    position: relative;
 }
