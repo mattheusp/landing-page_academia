@@ -139,4 +139,9 @@ main {
 .btns button:before {
     content: ' ';
     border-radius: 20px;
+    left: 0;
+    position: absolute;
+    width: 0;
+    height: 60%;
+    
 }   
