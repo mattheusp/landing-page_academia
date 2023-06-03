@@ -51,5 +51,11 @@ header {
 }
 
 .menu-content .list-itens {
-    
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+
+.menu-content {
+
 }
