@@ -133,7 +133,7 @@ main {
     letter-spacing: 0.2rem;
     border-radius: 20px;
     position: relative;
-    transition: 1.5s;
+    transition: 0.5s;
 }
 
 .btns button:hover {
